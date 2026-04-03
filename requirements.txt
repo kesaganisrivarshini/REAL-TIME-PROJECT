@@ -1,4 +1,4 @@
-setuptools
-streamlit
-joblib
-pandas
+Setuptools
+Streamlit
+Joblib
+Pandas
