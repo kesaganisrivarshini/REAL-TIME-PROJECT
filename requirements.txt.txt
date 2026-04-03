@@ -1,0 +1,4 @@
+setuptools
+streamlit
+joblib
+pandas
